@@ -1,3 +1,6 @@
+# Preface:
+Uses demo data from provided source: https://docs.google.com/spreadsheets/d/1x48Te3duPAxh53foEihQVKTfCKUjaCCbH7TrMMd_yU4/copy
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # CollectionBuilder-GH
 
 A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
